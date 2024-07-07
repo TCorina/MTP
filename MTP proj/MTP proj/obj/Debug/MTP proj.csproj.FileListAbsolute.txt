@@ -1,0 +1,12 @@
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\obj\Debug\MTP proj.csproj.AssemblyReference.cache
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\obj\Debug\MTP_proj.Form1.resources
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\obj\Debug\MTP_proj.Properties.Resources.resources
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\obj\Debug\MTP proj.csproj.GenerateResource.cache
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\obj\Debug\MTP proj.csproj.CoreCompileInputs.cache
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\bin\Debug\credentials.txt
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\bin\Debug\MTP proj.exe.config
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\bin\Debug\MTP proj.exe
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\bin\Debug\MTP proj.pdb
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\obj\Debug\MTP proj.exe
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\obj\Debug\MTP proj.pdb
+C:\Users\dania\OneDrive\Desktop\corina\MTP proj\MTP proj\obj\Debug\MTP_proj.Form2.resources
